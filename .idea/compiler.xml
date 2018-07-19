@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serverhi" />
+        <module name="servermiya" />
+        <module name="spring-boot-eureka-client" />
+        <module name="springbooteureka" />
+        <module name="springbootfegin" />
+        <module name="springbootribbon" />
+        <module name="springbootzuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="serverhi" target="1.8" />
+      <module name="servermiya" target="1.8" />
+      <module name="spring-boot-eureka-client" target="1.8" />
+      <module name="spring-boot-parent" target="1.8" />
+      <module name="springbootconfigserver" target="1.8" />
+      <module name="springbooteureka" target="1.8" />
+      <module name="springbootfegin" target="1.8" />
+      <module name="springbootribbon" target="1.8" />
+      <module name="springbootzuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

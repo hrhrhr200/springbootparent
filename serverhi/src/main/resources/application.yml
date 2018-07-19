@@ -1,0 +1,7 @@
+server:
+  port: 8767
+spring:
+  application:
+    name: server-ha
+  zipkin:
+    base-url: http://localhost:9411

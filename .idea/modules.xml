@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serverhi/serverhi.iml" filepath="$PROJECT_DIR$/serverhi/serverhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servermiya/servermiya.iml" filepath="$PROJECT_DIR$/servermiya/servermiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-client/spring-boot-eureka-client.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-client/spring-boot-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-parent.iml" filepath="$PROJECT_DIR$/spring-boot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbooteureka/springbooteureka.iml" filepath="$PROJECT_DIR$/springbooteureka/springbooteureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfegin/springbootfegin.iml" filepath="$PROJECT_DIR$/springbootfegin/springbootfegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootribbon/springbootribbon.iml" filepath="$PROJECT_DIR$/springbootribbon/springbootribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootzuul/springbootzuul.iml" filepath="$PROJECT_DIR$/springbootzuul/springbootzuul.iml" />
+    </modules>
+  </component>
+</project>
