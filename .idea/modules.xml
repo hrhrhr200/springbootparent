@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservicesimpleprovideruser2/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservicesimpleprovideruser2/microservice-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicesimpleconsumermovie/microservicesimpleconsumermovie.iml" filepath="$PROJECT_DIR$/microservicesimpleconsumermovie/microservicesimpleconsumermovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicesimpleprovideruser/microservicesimpleprovideruser.iml" filepath="$PROJECT_DIR$/microservicesimpleprovideruser/microservicesimpleprovideruser.iml" />
       <module fileurl="file://$PROJECT_DIR$/serverhi/serverhi.iml" filepath="$PROJECT_DIR$/serverhi/serverhi.iml" />
       <module fileurl="file://$PROJECT_DIR$/servermiya/servermiya.iml" filepath="$PROJECT_DIR$/servermiya/servermiya.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-client/spring-boot-eureka-client.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-client/spring-boot-eureka-client.iml" />

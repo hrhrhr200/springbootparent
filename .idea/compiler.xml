@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="microservice-simple-provider-user" />
+        <module name="microservicesimpleconsumermovie" />
+        <module name="microservicesimpleprovideruser" />
         <module name="serverhi" />
         <module name="servermiya" />
         <module name="spring-boot-eureka-client" />
@@ -16,6 +19,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="microservicediscoveryeurekaauthenticating" target="1.8" />
+      <module name="microservicesimpleconsumermovie" target="1.8" />
+      <module name="microservicesimpleprovideruser" target="1.8" />
       <module name="serverhi" target="1.8" />
       <module name="servermiya" target="1.8" />
       <module name="spring-boot-eureka-client" target="1.8" />
@@ -26,5 +33,19 @@
       <module name="springbootribbon" target="1.8" />
       <module name="springbootzuul" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microservice-simple-provider-user" options="-parameters" />
+      <module name="microservicesimpleconsumermovie" options="-parameters" />
+      <module name="microservicesimpleprovideruser" options="-parameters" />
+      <module name="serverhi" options="-parameters" />
+      <module name="servermiya" options="-parameters" />
+      <module name="spring-boot-eureka-client" options="-parameters" />
+      <module name="springbooteureka" options="-parameters" />
+      <module name="springbootfegin" options="-parameters" />
+      <module name="springbootribbon" options="-parameters" />
+      <module name="springbootzuul" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -14,6 +14,9 @@
 		<module>springbootzuul</module>
         <module>serverhi</module>
         <module>servermiya</module>
+        <module>microservicesimpleprovideruser</module>
+        <module>microservicesimpleconsumermovie</module>
+        <module>microservicesimpleprovideruser2</module>
     </modules>
 	<packaging>pom</packaging>
 
